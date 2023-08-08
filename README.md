@@ -36,4 +36,4 @@ Embark on a cinematic odyssey with CineBook, where every movie becomes a magical
 
 Feel the allure, contribute to the enchantment, and embrace the mystical cinematic journey with CineBook!
 
-![CineBook Logo](link-to-your-logo-image.png)
+![CineBook Logo](link-to-logo-image.png)
